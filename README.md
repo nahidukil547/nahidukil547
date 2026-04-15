@@ -47,9 +47,9 @@ I face them, solve them, and grow from them.
 - Integrated **SMTP Mail**
 - Built with Django, AJAX, PostgreSQL
 
-### 💼 Job Portal System
+### 💼 Job Portal System [![Live Demo](https://img.shields.io/badge/Live-Preview-brightgreen)](https://job-portal-kctz.onrender.com/)
 - Job search, application flow, interview scheduling
-- Role-based permissions & full REST API backend
+- Role-based permissions backend
 
 ### 🎓 LMS Platform (Live & Recorded)
 - Complete API system with Django REST Framework
@@ -95,7 +95,7 @@ I face them, solve them, and grow from them.
 
 ---
 
-### 💼 Job Portal System
+### 💼 Job Portal System [![Live Demo](https://img.shields.io/badge/Live-Preview-brightgreen)](https://job-portal-kctz.onrender.com/)
 🔗 GitHub: https://github.com/nahidukil547/Job-Portal  
 
 - Complete job platform with job search, apply system, and interview scheduling  
